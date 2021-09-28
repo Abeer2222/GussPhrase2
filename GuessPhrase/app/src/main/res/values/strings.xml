@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessPhrase</string>
+    <string name="score_file">com.example.kotlinpractice.PREFERENCE_FILE_KEY</string>
+</resources>
